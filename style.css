@@ -128,3 +128,6 @@ footer p{max-width:620px;margin:20px auto 0;font-size:12px;opacity:.75;line-heig
  .brand{font-size:19px}
 }
 @media(max-width:520px){.tiles,.ingr{grid-template-columns:1fr}nav a:nth-child(n+3){display:none}}
+
+.srow h3{line-height:1.15}
+.page-hero .in{padding-bottom:50px}
